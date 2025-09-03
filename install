@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Balance Sheet Risk Analytics Platform</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f6f8;
+      color: #333;
+    }
+    header {
+      background-color: #003366;
+      color: white;
+      padding: 60px 20px;
+      text-align: center;
+    }
+    header h1 {
+      font-size: 2.5em;
+      margin-bottom: 10px;
+    }
+    header p {
+      font-size: 1.2em;
+      max-width: 800px;
+      margin: auto;
+    }
+    section {
+      padding: 40px 20px;
+      max-width: 1000px;
+      margin: auto;
+    }
+    h2 {
+      color: #003366;
+      margin-top: 40px;
+    }
+    ul {
+      list-style: none;
+      padding-left: 0;
+    }
+    ul li {
+      margin-bottom: 15px;
+      padding-left: 25px;
+      position: relative;
+    }
+    ul li::before {
+      content: "✔";
+      position: absolute;
+      left: 0;
+      color: #007acc;
+      font-weight: bold;
+    }
+    .cta {
+      background-color: #003366;
+      color: white;
+      text-align: center;
+      padding: 40px 20px;
+    }
+    .cta a {
+      background-color: #ffcc00;
+      color: #003366;
+      padding: 12px 24px;
+      text-decoration: none;
+      font-weight: bold;
+      border-radius: 5px;
+      display: inline-block;
+      margin-top: 20px;
+    }
+    .cta a:hover {
+      background-color: #e6b800;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Oko-no - Future-Proof Your Risk Analytics Platform</h1>
+  <p>Built for insurers and asset managers navigating Solvency II, capital projection, and balance sheet risk—who demand control, clarity, and compliance.</p>
+</header>
+
+<section>
+  <h2>INStall?</h2>
+  <p>In today’s regulatory landscape, Solvency II and capital projection requirements are more demanding than ever. Legacy systems often struggle to keep up—with rigid architectures, opaque calculations, and costly upgrades. Our solution offers a fresh start: a modern, open-source platform built on OpenGamma Strata that gives you full control, scalability, and transparency—without vendor lock-in.</p>
+  <p>In today’s regulatory landscape, Solvency II and capital projection requirements </p>
+</section>
+
+<div class="cta">
+  <h2>Let’s Talk</h2>
+  <p>Ready to explore how our platform can transform your risk analytics?</p>
+  <a href="#contact">Request a Demo</a>
+</div>
+
+</body>
+</html>
